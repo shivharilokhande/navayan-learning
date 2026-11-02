@@ -1,0 +1,84 @@
+# Navayan (नवयान)
+
+> Navayan is a Marathi-first learning platform. Its first course, for children aged 3–8, is a printed book whose code unlocks 360 narrated interactive chapters arranged as 6 levels × 20 units × 3 chapters — one unit a day.
+
+नवयान हे मराठी-प्रथम शिक्षण व्यासपीठ आहे. पहिला अभ्यासक्रम ३–८ वयाच्या मुलांसाठी: कोड असलेलं छापील पुस्तक, जे ६ स्तर × २० एकक × ३ धडे असे ३६० बोलणारे धडे उघडतं — रोज एक एकक.
+
+## Key facts
+- Course: Navayan Foundation Course (नवयान पायाभूत अभ्यासक्रम)
+- Audience: children aged 3–8 and their parents; one adult account per mobile number
+- Structure: 6 levels × 20 units × 3 chapters = 120 units, 360 narrated interactive lessons
+- Levels: Prarambhik (Beginning), Prathamik (Primary), Vikasan (Growing), Madhyam (Middle), Unnat (Higher), Pragat (Advanced)
+- Subjects: Science, Maths, English, Society, Life skills
+- Language: Marathi (English toggle in the app); Devanagari numerals
+- How to buy: download the Android app (Google Play, coming soon), register with a mobile number, subscribe in the app; the subscription includes the digital book, the 360 lessons and the printed book delivered to the home address entered in the app
+- Already have the book: the 12-character activation code under the scratch panel unlocks the course (single use)
+- Platforms: Android app and the web
+- Founder: Dr. Pravin Kadam
+
+## How it works
+1. Get the app: Scan the QR code here or download the Navayan app from Google Play.
+2. Register: Enter the parent's mobile number and sign in with the OTP. One account per number.
+3. Subscribe: Subscribe to the course inside the app — the digital book and 360 lessons open right away.
+4. Add your address: Enter where the printed book should go. It arrives straight at your door.
+5. Start learning: Open the book, start the same unit's lesson in the app — one unit a day.
+
+## Pages
+- [Home (Marathi)](https://shivharilokhande.me/): course overview, activation steps, FAQ
+- [Home (English)](https://shivharilokhande.me/en): the same in English
+- [Full text for LLMs](https://shivharilokhande.me/llms-full.txt): every FAQ in Marathi and English
+
+## Contact
+- Contact details will be published on the website.
+
+## FAQ (English)
+
+### How do I get the Navayan app?
+Scan the QR code on this page with your phone camera or search for ‘Navayan’ on Google Play. The app is for Android phones and will be available on Google Play soon.
+
+### What does the subscription include?
+Three things in one subscription: the digital book in the app, 360 narrated lessons arranged as 6 levels × 20 units × 3 lessons, and the printed book delivered to your home.
+
+### How does the printed book reach my home?
+After subscribing in the app, enter your home address and PIN code. The printed book is sent to that address. The address is used only to deliver the book.
+
+### I already have the book. What now?
+The book has a 12-character activation code under the scratch panel (for example XXXX-XXXX-XXXX). Register in the app with your mobile number and enter the code; the course opens right away. Each code works only once.
+
+### Do lessons work offline?
+Yes, in the app. Download a unit first; its lessons then play without the internet and progress is saved on the phone. When you are back online, progress syncs automatically.
+
+### Does one subscription work for two children?
+One mobile number has one account with a single progress record. Two children can learn on the same account, but their progress is not shown separately.
+
+### Where is children's data stored?
+The account belongs to the parent; only the child's nickname and learning progress are stored. A detailed privacy notice will be published on this website.
+
+### What do schools get?
+A plan for schools and tuition classes comes in a later phase. For now, parents can use the app and the book at home; schools can let us know through the contact section.
+
+## प्रश्नोत्तरे (मराठी)
+
+### नवयान अ‍ॅप कसं मिळवायचं?
+या पानावरचा क्यूआर कोड फोनच्या कॅमेऱ्याने स्कॅन करा किंवा गूगल प्ले वर ‘नवयान’ शोधा. अ‍ॅप अँड्रॉइड फोनसाठी आहे आणि लवकरच गूगल प्ले वर उपलब्ध होईल.
+
+### सदस्यतेत काय काय मिळतं?
+एका सदस्यतेत तीन गोष्टी: अ‍ॅपमधलं डिजिटल पुस्तक, ६ स्तर × २० एकक × ३ धडे असे ३६० बोलके धडे, आणि तुमच्या घरी पाठवलं जाणारं छापील पुस्तक.
+
+### छापील पुस्तक घरी कसं येतं?
+अ‍ॅपमध्ये सदस्यता घेतल्यानंतर घरचा पत्ता आणि पिन कोड भरा. छापील पुस्तक त्या पत्त्यावर पाठवलं जातं. पत्ता फक्त पुस्तक पाठवण्यासाठी वापरला जातो.
+
+### माझ्याकडे आधीच पुस्तक आहे, मग काय?
+पुस्तकातील स्क्रॅच पॅनेलखाली १२ अक्षरांचा सक्रियता कोड असतो (उदा. XXXX-XXXX-XXXX). अ‍ॅपमध्ये मोबाइल नंबरने नोंदणी करून तो कोड टाका; अभ्यासक्रम लगेच उघडतो. प्रत्येक कोड एकदाच वापरता येतो.
+
+### इंटरनेटशिवाय धडे चालतात का?
+हो, अ‍ॅपमध्ये. एकक आधी डाउनलोड करून ठेवा; मग इंटरनेट नसतानाही ते धडे चालतात आणि प्रगती फोनवर साठवली जाते. इंटरनेट परत आलं की प्रगती आपोआप जुळते.
+
+### दोन मुलांसाठी एक सदस्यता चालते का?
+एका मोबाइल नंबरवर एक खातं आणि प्रगतीची एकच नोंद असते. दोन मुलं एकाच खात्यावर शिकू शकतात, पण त्यांची प्रगती वेगवेगळी दिसत नाही.
+
+### मुलांची माहिती कुठे साठवली जाते?
+खातं पालकांचं असतं; मुलाचं फक्त टोपणनाव आणि शिकण्याची प्रगती साठवली जाते. सविस्तर गोपनीयता सूचना या संकेतस्थळावर प्रसिद्ध केली जाईल.
+
+### शाळांसाठी काय मिळतं?
+शाळा आणि शिकवणी वर्गांसाठीची योजना पुढच्या टप्प्यात येईल. सध्या पालक अ‍ॅप आणि पुस्तक वापरून घरी अभ्यास घेऊ शकतात; शाळांनी संपर्क विभागातून कळवावं.

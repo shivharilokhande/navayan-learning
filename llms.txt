@@ -1,0 +1,32 @@
+# Navayan (नवयान)
+
+> Navayan is a Marathi-first learning platform. Its first course, for children aged 3–8, is a printed book whose code unlocks 360 narrated interactive chapters arranged as 6 levels × 20 units × 3 chapters — one unit a day.
+
+नवयान हे मराठी-प्रथम शिक्षण व्यासपीठ आहे. पहिला अभ्यासक्रम ३–८ वयाच्या मुलांसाठी: कोड असलेलं छापील पुस्तक, जे ६ स्तर × २० एकक × ३ धडे असे ३६० बोलणारे धडे उघडतं — रोज एक एकक.
+
+## Key facts
+- Course: Navayan Foundation Course (नवयान पायाभूत अभ्यासक्रम)
+- Audience: children aged 3–8 and their parents; one adult account per mobile number
+- Structure: 6 levels × 20 units × 3 chapters = 120 units, 360 narrated interactive lessons
+- Levels: Prarambhik (Beginning), Prathamik (Primary), Vikasan (Growing), Madhyam (Middle), Unnat (Higher), Pragat (Advanced)
+- Subjects: Science, Maths, English, Society, Life skills
+- Language: Marathi (English toggle in the app); Devanagari numerals
+- How to buy: download the Android app (Google Play, coming soon), register with a mobile number, subscribe in the app; the subscription includes the digital book, the 360 lessons and the printed book delivered to the home address entered in the app
+- Already have the book: the 12-character activation code under the scratch panel unlocks the course (single use)
+- Platforms: Android app and the web
+- Founder: Dr. Pravin Kadam
+
+## How it works
+1. Get the app: Scan the QR code here or download the Navayan app from Google Play.
+2. Register: Enter the parent's mobile number and sign in with the OTP. One account per number.
+3. Subscribe: Subscribe to the course inside the app — the digital book and 360 lessons open right away.
+4. Add your address: Enter where the printed book should go. It arrives straight at your door.
+5. Start learning: Open the book, start the same unit's lesson in the app — one unit a day.
+
+## Pages
+- [Home (Marathi)](https://shivharilokhande.me/): course overview, activation steps, FAQ
+- [Home (English)](https://shivharilokhande.me/en): the same in English
+- [Full text for LLMs](https://shivharilokhande.me/llms-full.txt): every FAQ in Marathi and English
+
+## Contact
+- Contact details will be published on the website.
