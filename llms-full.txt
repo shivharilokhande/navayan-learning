@@ -1,14 +1,14 @@
 # Navayan (नवयान)
 
-> Navayan is a Marathi-first learning platform. Its first course, for children aged 3–8, is a printed book whose code unlocks 360 narrated interactive chapters arranged as 6 levels × 20 units × 3 chapters — one unit a day.
+> Navayan is a Marathi-first learning platform. Our aim is to help children learn beyond textbooks, discover new things and learn about the opportunities ahead of them.
 
-नवयान हे मराठी-प्रथम शिक्षण व्यासपीठ आहे. पहिला अभ्यासक्रम ३–८ वयाच्या मुलांसाठी: कोड असलेलं छापील पुस्तक, जे ६ स्तर × २० एकक × ३ धडे असे ३६० बोलणारे धडे उघडतं — रोज एक एकक.
+नवयान हे मराठी-प्रथम शिक्षण व्यासपीठ आहे. मुलांना पुस्तकांच्या पलीकडे जाऊन शिकता यावं, नवनवीन गोष्टींची ओळख व्हावी आणि भविष्यातील संधींची माहिती मिळावी, हा आमचा प्रयत्न.
 
 ## Key facts
 - Course: Navayan Foundation Course (नवयान पायाभूत अभ्यासक्रम)
-- Audience: children aged 3–8 and their parents; one adult account per mobile number
+- Audience: children aged 12–16 and their parents; one adult account per mobile number
 - Structure: 6 levels × 20 units × 3 chapters = 120 units, 360 narrated interactive lessons
-- Levels: Prarambhik (Beginning), Prathamik (Primary), Vikasan (Growing), Madhyam (Middle), Unnat (Higher), Pragat (Advanced)
+- Levels: The World Around Us, Our Bodies, Our World, Science, Maths & Society, Our Earth, Our People, Think, Create & Solve, Learn, Apply & Grow
 - Subjects: Science, Maths, English, Society, Life skills
 - Language: Marathi (English toggle in the app); Devanagari numerals
 - How to buy: download the Android app (Google Play, coming soon), register with a mobile number, subscribe in the app; the subscription includes the digital book, the 360 lessons and the printed book delivered to the home address entered in the app
