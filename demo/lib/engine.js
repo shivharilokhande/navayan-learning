@@ -1493,14 +1493,21 @@ function start(i, play) {
   Object.assign(P, { i, t: 0, waiting: false, done: false, afail: false, stall: 0 });
   P.end = runBeat(i);
   evalTo(0);
-  const a = P.audio = new Audio(`audio/${CHAPTER.language || 'en'}/${BEATS[i].id}.mp3`);
-  a.preload = 'auto';
+  // Reuse the clip preloaded during the previous beat, so a slow connection does not stall every step start.
+  const a = P.audio = (P.next && P.next.i === i) ? P.next.a : newClip(i);
+  P.next = null;
+  if (i + 1 < BEATS.length) P.next = { i: i + 1, a: newClip(i + 1) };
   a.volume = +$('volume').value;
   a.playbackRate = SPEED;          // slow mode for young readers; the beat clock follows audio time, so marks stay in sync
   a.onerror = () => { if (P.audio === a) soundFailed(); };
   const b = BEATS[i];
   if (b.ask) b.ask(() => { if (P.i === i) { evalTo(Infinity); start(i + 1, true); } });
   setPlaying(play);
+}
+function newClip(i) {
+  const a = new Audio(`audio/${CHAPTER.language || 'en'}/${BEATS[i].id}.mp3`);
+  a.preload = 'auto'; a.load();
+  return a;
 }
 function soundFailed() { P.afail = true; $('soundNote').hidden = false; }
 function setPlaying(v) {
@@ -1528,7 +1535,10 @@ function frame(now) {
     // While the clip plays, its clock drives the picture; before it starts or after it ends, wall time does.
     if (a && !P.afail && !a.ended) {
       if (a.currentTime > 0) { P.t = Math.max(P.t, a.currentTime); P.stall = 0; }
-      else if ((P.stall += dt) > 4) soundFailed();
+      // Not started yet: while the clip is still downloading (readyState < 3) wait — up to 25 s — instead of giving up
+      // on sound; the picture waits with it. Only a clip that HAS data and still does not play (autoplay blocked, codec)
+      // is a sound failure after 4 s. Giving up early made the narration start late and then get cut at the beat end.
+      else if ((P.stall += dt) > (a.readyState >= 3 ? 4 : 25)) soundFailed();
     } else P.t += dt;
     evalTo(P.t);
     if (P.t >= P.end) beatDone();
