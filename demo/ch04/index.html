@@ -211,14 +211,14 @@ const BEATS = [
     for (let i = 0; i < 18; i++) { const d = String((i * 7) % 10); T(bg, d, { x: 90 + (i * 263) % 1450, y: 120 + (i * 171) % 720, size: 60 + (i * 13) % 50, fill: SAFF, weight: 800, font: HEAD, o: .12 }); }
     tw(bg, { o: 1 }, 0, .8);
     const g = G(scene, { o: 0, y: 24 });
-    T(g, 'नवयान · दिवस २ · धडा ४ · Maths', { x: 800, y: 210, size: 26, fill: SAFF, weight: 700, anchor: 'middle' });
+    T(g, 'नवयान · एकक २ · धडा ४ · Maths', { x: 800, y: 210, size: 26, fill: SAFF, weight: 700, anchor: 'middle' });
     T(g, 'Why Do We Need', { x: 800, y: 310, size: 78, weight: 800, anchor: 'middle', font: HEAD });
     T(g, 'Numbers?', { x: 800, y: 405, size: 78, weight: 800, anchor: 'middle', font: HEAD, fill: SAFF });
     T(g, 'संख्या — आपल्या जगाची भाषा', { x: 800, y: 470, size: 38, fill: COL.dim, weight: 700, anchor: 'middle', font: HEAD });
     tw(g, { o: 1, y: 0 }, .3, 1.1, out);
     // Day 2 strip: three lessons, Maths lit
     const strip = G(scene, { o: 0 });
-    T(strip, 'दिवस २ · संख्या आणि स्वतःची ओळख', { x: 800, y: 580, size: 26, fill: COL.dim, weight: 700, anchor: 'middle' });
+    T(strip, 'एकक २ · संख्या आणि स्वतःची ओळख', { x: 800, y: 580, size: 26, fill: COL.dim, weight: 700, anchor: 'middle' });
     [['Maths', 'आपण जग मोजतो', SAFF, true], ['Social Science', 'आपण समाज समजतो', SKY, false], ['Life Skills', 'स्वतःला समजायला सुरुवात', CORAL, false]].forEach(([en, mr, c, lit], i) => {
       const x = 380 + i * 420, cg = G(strip, { x, y: 650, o: 0, s: .8 });
       mk('rect', { x: -170, y: -36, width: 340, height: 72, rx: 36, fill: lit ? c : '#fff', stroke: c, 'stroke-width': 3 }, cg);
